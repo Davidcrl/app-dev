@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# Series and Movie recommendation from Davidcrl
+- My beloved summer
+- Itaewon Class
+- Vincenzo
