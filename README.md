@@ -2,6 +2,7 @@
 ## These series can be watched in Netflix
 
 **1. My beloved summer** 
+
 ![My beloved summer](https://github.com/Davidcrl/app-dev/assets/152070992/5bf36d5c-9f07-4ecc-a448-f44dab462530)
 
 [My beloved summer](https://www.netflix.com/title/81486372)
@@ -11,6 +12,7 @@
 This drama shows what love feels like. Instead of discussing practical issues like family conflicts, it tells a story about throb, memory and dream. Romance is revealed in many small, unnoticed acts.
 
 **2. Itaewon Class** 
+
 ![Itaewon Class](https://github.com/Davidcrl/app-dev/assets/152070992/b9c7de2f-a89b-4d90-8020-21263b27b348)
 
 [Itaewon Class](https://www.netflix.com/title/81193309)
@@ -20,6 +22,7 @@ This drama shows what love feels like. Instead of discussing practical issues li
 After his release from prison, Park Sae-ro-yi opens DanBam in Itaewon. He wants to be successful and seeks revenge towards Jangga Group. However, he is not too smart at managing his business. He then meets Jo Yi-seo (Kim Da-mi).
 
 **3. Vincenzo** 
+
 ![Vincenzo](https://github.com/Davidcrl/app-dev/assets/152070992/64850d52-68c6-49be-a680-f168cf583e7f)
 
 [Vincenzo](https://www.netflix.com/title/81365087)
