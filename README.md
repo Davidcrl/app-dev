@@ -3,6 +3,7 @@
 
 **1. My beloved summer** 
 ![My beloved summer](https://github.com/Davidcrl/app-dev/assets/152070992/5bf36d5c-9f07-4ecc-a448-f44dab462530)
+
 [My beloved summer](https://www.netflix.com/title/81486372)
 
 -A coming-of-age romantic comedy that revolves around Choi Ung (Choi Woo-shik) and Kook Yeon-soo (Kim Da-mi), ex-lovers who broke up with a promise to never meet again. As luck would have it, the documentary they filmed ten years ago in high school went viral and they are forced to face the cameras together again by their producer friend. The series depicts their complicated feelings and growth.
@@ -11,6 +12,7 @@ This drama shows what love feels like. Instead of discussing practical issues li
 
 **2. Itaewon Class** 
 ![Itaewon Class](https://github.com/Davidcrl/app-dev/assets/152070992/b9c7de2f-a89b-4d90-8020-21263b27b348)
+
 [Itaewon Class](https://www.netflix.com/title/81193309)
 
 -Due to an accident which killed his father, Park Sae-ro-yi (Park Seo-joon) attempted to kill Jang Geun-won (Ahn Bo-hyun), the son of Jangga Group's founder, Jang Dae-hee (Yoo Jae-myung). He was jailed and the woman he loved, Oh Soo-ah (Kwon Na-ra), was offered a university scholarship by Jang Dae-hee and later became the Strategic Planning Head of Jangga Group.
@@ -19,6 +21,7 @@ After his release from prison, Park Sae-ro-yi opens DanBam in Itaewon. He wants 
 
 **3. Vincenzo** 
 ![Vincenzo](https://github.com/Davidcrl/app-dev/assets/152070992/64850d52-68c6-49be-a680-f168cf583e7f)
+
 [Vincenzo](https://www.netflix.com/title/81365087)
 
 -At the age of eight, Park Joo-hyung (Song Joong-ki) is adopted by an Italian family, but the family later dies tragically in an accident. Joo-hyung joins the mafia and is adopted by Don Fabio, head of the Cassano Family who treats him like a son. Renamed “Vincenzo Cassano” he becomes a lawyer, a consigliere for the mafia, and Don Fabio's right-hand man. After Fabio dies, Paolo, Fabio's biological son and the new leader of the Cassano Family attempts to kill his adoptive brother out of jealousy because Fabio favoured him over his own biological son.
